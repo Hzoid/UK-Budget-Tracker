@@ -1,6 +1,8 @@
 # UK Budget Tracker
 
-<p>This is a budget tracker written in React, by Claude.</p>
+<p>This is a simple budget tracker written in React, by Claude.</p>
+
+![image](https://github.com/user-attachments/assets/8c144a58-7d57-4b38-a43c-0950478bf6db)
 
 ## Features
 
